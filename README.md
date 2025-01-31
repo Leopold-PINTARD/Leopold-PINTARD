@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leopold-pintard&label=Profile%20views&color=0e75b6&style=flat" alt="leopold-pintard" /> </p>
 
-- 🌱 I’m currently learning **C, Application development**
+- 🌱 I’m currently learning **C, C++, Application development**
 
 - 📫 How to reach me **leopoldpintard@gmail.com**
 
