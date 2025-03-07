@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, Application development**
 
-- 📫 How to reach me **leopoldpintard@gmail.com**
+- 📫 How to reach me **leopold.pintard@epitech.eu**
 
 - ❤️ My passions : Law enforcement and emergency services / car, trains and helicopters / animals
 
